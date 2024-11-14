@@ -1,0 +1,5 @@
+-I../../../../SU2_Main/externals/codi/include/
+-I../../../../SU2_Main/externals/medi/include/medi/
+-I../../../../SU2_Main/externals/codi/include/codi/tools/mpi/
+-I../../../../SU2_Main/externals/medi/src/medi/
+-I/usr/lib/x86_64-linux-gnu/openmpi/include
